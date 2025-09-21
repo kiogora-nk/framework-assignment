@@ -1,0 +1,7 @@
+pandas==1.5.3
+matplotlib==3.7.1
+seaborn==0.12.2
+streamlit==1.22.0
+wordcloud==1.9.2
+numpy==1.24.3
+    all that is  not mentioned above
